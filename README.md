@@ -45,7 +45,7 @@ We use the **Epic Chittagong Chest X-ray Dataset (Bangladesh)**:
 python train.py
 python evaluate.py
 ## 🚀 Installation
-
+```
 ├── dataset/
 ├── models/
 ├── training/
@@ -53,6 +53,7 @@ python evaluate.py
 ├── xai/
 ├── results/
 └── README.md
+```
 👨‍💻 Authors
 
 Md Irfanul Kabir Hira
@@ -67,10 +68,10 @@ Contact :
 Hira, Md Irfanul Kabir et al. (2025).
 A Hybrid CoAtNet-Based Framework with Sharpness-Aware Minimization for Explainable Chest X-Ray Classification.
 ```bash
-    
+```
 git clone https://github.com/irfanulkabirhira/A-Hybrid-CoAtNet-Based-Framework-with-Sharpness-Aware-Minimization-for-Explainable-Chest-X-Ray.git
 cd A-Hybrid-CoAtNet-Based-Framework-with-Sharpness-Aware-Minimization-for-Explainable-Chest-X-Ray
 pip install -r requirements.txt
-
+```
 
 
