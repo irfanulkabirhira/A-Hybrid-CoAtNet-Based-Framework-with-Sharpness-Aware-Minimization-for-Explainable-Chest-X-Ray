@@ -17,7 +17,7 @@ This repository presents a hybrid deep learning framework that combines **CoAtNe
 ---
 
 ## 📂 Dataset
-
+![image alt](https://github.com/irfanulkabirhira/NeuroVision-AI-Brain-Tumor-Classification-using-Deep-Learning/blob/9bee5126befecdc68ecd4e2aedbf3135ba61b4b9/Datasest%20Splition.png)
 We use the **Epic Chittagong Chest X-ray Dataset (Bangladesh)**:
 
 📎 DOI: https://doi.org/10.17632/wndbd5r26y.2  
