@@ -17,7 +17,7 @@ This repository presents a hybrid deep learning framework that combines **CoAtNe
 ---
 
 ## 📂 Dataset
-![image alt](https://github.com/irfanulkabirhira/NeuroVision-AI-Brain-Tumor-Classification-using-Deep-Learning/blob/9bee5126befecdc68ecd4e2aedbf3135ba61b4b9/Datasest%20Splition.png)
+![image alt](https://github.com/irfanulkabirhira/A-Hybrid-CoAtNet-Based-Framework-with-Sharpness-Aware-Minimization-for-Explainable-Chest-X-Ray/blob/bb1a09630ea3906691cd53b7407693989e3f8049/For%20Chest%20X-Ray.png)
 We use the **Epic Chittagong Chest X-ray Dataset (Bangladesh)**:
 
 📎 DOI: https://doi.org/10.17632/wndbd5r26y.2  
